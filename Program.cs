@@ -9,6 +9,7 @@ namespace Palyaorientacio2024Season01
         static void Main(string[] args)
         {
             new ElsoFeladat();
+            new MasodikFeladat();
         }
 
     }

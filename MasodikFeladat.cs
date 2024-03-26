@@ -20,6 +20,7 @@
 
         public MasodikFeladat()
         {
+            Console.WriteLine("2. feladat: Megoldásai");
             aFeladatMegoldasa();
             bFeladatMegoldasa();
             cFeladatMegoldasa();

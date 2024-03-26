@@ -8,6 +8,7 @@
 
         public ElsoFeladat()
         {
+            Console.WriteLine("1. feladat: Megoldásai");
             aFeladatMegoldasa();
             bFeladatMegoldasa();
             cFeladatMegoldasa();
