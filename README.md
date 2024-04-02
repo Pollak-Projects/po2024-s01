@@ -67,13 +67,13 @@ Minden sorban 9 db adat szerepel, egymástól szóközzel elválasztva, azonos s
 
 A fájl egy sora például:
 `6000 BK 46.9 19.7833 321.36 111428 Kecskemet 0 67`
-- A település irányítószáma ( 6000 )
+- A település irányítószáma (6000)
 - Megye azonosítója (BK) A megyék azonosítóit és a megyék nevét a _megyek.txt_ fájl tartalmazza. Ezt
     a fájlt használhatja a megoldáshoz.
 - A település szélességi GPS koordinátája fok mértékegységben (46.9)
 - A település hosszúsági GPS koordinátája fok mértékegységben (19.7833)
 - A település területe km<sup>2</sup>-ben (321.36)
-- A település lakosainak száma ( 111428 )
+- A település lakosainak száma (111428)
 - A település neve (Kecskemet) A települések neve nem tartalmaz ékezetes karaktereket, nagy
     betűvel kezdődik és több szót tartalmazó név esetén a szóköz helyett „-” jel szerepel.
 - A település távolsága Kecskeméttől kilométerben, egészre kerekítve (0)
