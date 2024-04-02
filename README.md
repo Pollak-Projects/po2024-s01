@@ -94,7 +94,7 @@ válaszként, a _megyek.txt_ fájlban szereplő módon, majd tőle egy "-" jelle
 adatok alapján a lakosok számát!
 ```
 Pl.: ha eredményül Veszprém megyét kapja és a lakosok száma 312670, akkor a kiírandó válasz:
-Veszprem- 312670
+Veszprem-312670
 ```
 
 ---
