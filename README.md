@@ -3,7 +3,7 @@
 Hogyan tudod megnyitni a fejlesztéshez a kódot 
  - Letöltöd a kódot zipként, kicsomagolod és megnyitod a `Playaorientacio2024Season01.sln` fájlt
  - Visual Studio-ban a `Clone a repository` opción belül bemásolod a `https://github.com/Pollak-Projects/po2024-s01.git` linket
- - Bemásolod a következőt a saját mappádban megnyitott konzolba:
+ - Bemásolod a következőt commandot a saját mappádban megnyitott konzolba:
 
 ```sh
 git clone https://github.com/Pollak-Projects/po2024-s01.git
