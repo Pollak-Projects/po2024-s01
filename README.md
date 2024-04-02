@@ -72,7 +72,7 @@ A fájl egy sora például:
     a fájlt használhatja a megoldáshoz.
 - A település szélességi GPS koordinátája fok mértékegységben (46.9)
 - A település hosszúsági GPS koordinátája fok mértékegységben (19.7833)
-- A település területe km^2 - ben (321.36)
+- A település területe km<sup>2</sup>-ben (321.36)
 - A település lakosainak száma ( 111428 )
 - A település neve (Kecskemet) A települések neve nem tartalmaz ékezetes karaktereket, nagy
     betűvel kezdődik és több szót tartalmazó név esetén a szóköz helyett „-” jel szerepel.
